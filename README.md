@@ -15,7 +15,9 @@ Un clone simplifié de Linktree permettant de partager plusieurs liens via une p
 
 ## Démo en ligne
 
-[Clique ici pour voir la démo](first-linktree.vercel.app)
+Le projet est déployé sur Vercel. Vous pouvez le voir en ligne ici :  
+[Voir la démo sur Vercel](https://monprojet.vercel.app)
+
 
 ## À propos de moi
 
