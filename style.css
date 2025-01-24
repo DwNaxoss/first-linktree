@@ -7,13 +7,13 @@
     width: 100%;
 }
 
-.navigation-container {
+.navigation_container {
     max-width: 1200px;
     margin: auto;
     padding: 0;
 }
 
-.navigation-list {
+.navigation_list {
     display: flex;
     flex-direction: row;
     list-style-type: none;
@@ -21,7 +21,7 @@
     padding: 0;
 }
 
-.navigation-item {
+.navigation_item {
     text-align: center;
     padding: 10px 5%;
     font-size: 1.1rem;
@@ -29,12 +29,12 @@
 
 }
 
-.navigation-item:hover {
+.navigation_item:hover {
     animation: swing 0.5s ease-in-out;
 
 }
 
-.navigation-link {
+.navigation_link {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blue;
     text-decoration: none;
@@ -43,7 +43,7 @@
 
 /* image */
 
-.image-container {
+.image_container {
     display: flex;
     justify-content: center;
     align-items: center; 
@@ -63,7 +63,7 @@ img:hover {
 /* titre */
 
 
-.titre-container {
+.titre_container {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -98,7 +98,7 @@ h2:hover {
 
 /* bouton */
 
-.tous-les-boutons-container {
+.tous_les_boutons_container {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -108,7 +108,7 @@ h2:hover {
     animation: slideIn 1s ease-out;
 }
 
-.premier-button {
+.premier_button {
     background-color: #007BFF;
     color: white;
     text-decoration: none;
@@ -128,11 +128,11 @@ h2:hover {
     animation: gradientShift 5s ease infinite;
 }
 
-.premier-button:hover {
+.premier_button:hover {
     transform: scale(1.05);
 }
 
-.deuxieme-button {
+.deuxieme_button {
     background-color: #007BFF;
     color: white;
     text-decoration: none;
@@ -152,12 +152,12 @@ h2:hover {
     animation: gradientShift 5s ease infinite;
 }
 
-.deuxieme-button:hover {
+.deuxieme_button:hover {
 
     transform: scale(1.05);
 }
 
-.troisieme-button {
+.troisieme_button {
     background-color: #007BFF;
     color: white;
     text-decoration: none;
@@ -177,14 +177,14 @@ h2:hover {
     animation: gradientShift 5s ease infinite;
 }
 
-.troisieme-button:hover {
+.troisieme_button:hover {
     transform: scale(1.05);
 }
 
 /* logo */
 
 
-.tous-les-logos-container {
+.tous_les_logos_container {
     display: flex;
     flex-direction: row;
     align-items: center;
